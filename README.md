@@ -19,3 +19,16 @@
 ### https://github.com/iOSobfuscation/KNInjectedContentKit
 ### https://github.com/LennonChin/Code-Confuse-Plugin
 ### https://github.com/kongcup/ZMConfuse
+### https://github.com/ioswei/aw_confusion
+### https://github.com/leocll/CLLAppMix
+### https://github.com/644233454/confuseSwiftCode
+### https://github.com/ZhLinda/ios-obfuscation-by-4.3-
+### https://github.com/guogh/iOSApplicationReinforcement
+### https://github.com/lyzz0612/iosMixTools
+### https://github.com/Noying/iosMix
+### https://github.com/JourneyYoung/iOSMixProject
+### https://github.com/likangios/OCStringEncodeDemo
+### https://github.com/pengleimaxue/PLConfusionTool
+### https://github.com/bairdweng/python_confuse
+### https://github.com/foreverwind/SLCMixTool
+### https://github.com/Otrshen/TestConfuse
